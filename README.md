@@ -1,6 +1,6 @@
 # xuetengfei
 
-I'm A Front End engineer
+I'm A FrontEnd engineer.
 
 ## My Tech Stack
 
@@ -8,8 +8,7 @@ I'm A Front End engineer
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?style=flat-square&logo=vue-dot-js&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=flat-square&logo=vercel&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
@@ -22,4 +21,12 @@ I'm A Front End engineer
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=%23ffffff)
 ![Vim](https://img.shields.io/badge/-Vim-%23019733?style=flat-square&logo=vim&logoColor=%23ffffff)
 ![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
-![Node](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+## Amateur project
+
+1. [my blog](https://xtf-bookmarks.vercel.app/)
+2. [vercel bookmarks](https://xtf-bookmarks.vercel.app/)
+3. [vercel code-sand-box ](https://code-sand-box.vercel.app/#/)
+4. [liscio come niente](https://particles-art.vercel.app/)
+
