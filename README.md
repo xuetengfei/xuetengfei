@@ -25,7 +25,7 @@ I'm A FrontEnd engineer.
 
 ## Amateur project
 
-1. [my blog](https://xtf-bookmarks.vercel.app/)
+1. [my blog](https://xuetengfei.github.io/#/)
 2. [vercel bookmarks](https://xtf-bookmarks.vercel.app/)
 3. [vercel code-sand-box ](https://code-sand-box.vercel.app/#/)
 4. [liscio come niente](https://particles-art.vercel.app/)
